@@ -1,0 +1,17 @@
+body {
+  background-color: red; }
+  body div {
+    color: aqua; }
+
+.case {
+  color: blue;
+  transform: translate(1%); }
+
+#app .app-box {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+
+
+/*# sourceMappingURL=maindfdaf9bb26e9267d6c53.css.map*/
